@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivangi541
 - 👀 I’m interested in data structures and algorithms in java, machine learning and web development
-- 🌱 I’m currently learning basics of python for machine learning and web development
+- 🌱 I’m currently learning basics of python for machine learning and also learning basics of web development
 - 💞️ I’m looking to collaborate on web development and machine learning projects
 - 📫 If you want to collaborate with me on interesting projects on web development and machine learning , feel free to connect with me on LinkedIn
 - Apart from academics , I like travelling as I feel travelling is the best way to learn for an introvert like me and recently have a keen interest in fashion as well.
